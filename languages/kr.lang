@@ -331,7 +331,6 @@ EOM;
 $PALANG['pUsersVacation_activefrom'] = 'Active from';
 $PALANG['pUsersVacation_activeuntil'] = 'Active until';
 
-
 $PALANG['pEdit_dbLog_editactive'] = 'change active state';
 
 $PALANG['pSearch'] = 'search';
